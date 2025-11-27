@@ -182,7 +182,17 @@ Graduated with **First Class with Distinction**.
 
 ## 📊 GITHUB & ACTIVITY
 
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShashankBagda&theme=algolia&no-bg=false&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+</p>
+
 > All cards below use dark‑friendly themes so text stays visible on GitHub’s dark mode.
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShashankBagda&theme=github_dark" alt="GitHub profile summary" />
+</p>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShashankBagda&show_icons=true&theme=github_dark&hide_border=false&bg_color=0d1117&title_color=38bdf8&text_color=cbd5f5&icon_color=38bdf8" alt="GitHub stats" />
@@ -190,12 +200,15 @@ Graduated with **First Class with Distinction**.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShashankBagda&theme=github-dark-blue&hide_border=false" alt="GitHub streak" />
+  <!-- Alternative streak generator (more reliable) -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ShashankBagda&theme=github-dark-blue&hide_border=false" alt="GitHub streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashankBagda&theme=github-compact&area=true&hide_border=true" alt="GitHub activity graph" />
 </p>
+
+### ⏱ Coding Time (WakaTime)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shashank_bagda&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5f5" alt="WakaTime stats" />
@@ -230,5 +243,5 @@ I’m open to research collaborations, internships and roles around **AI systems
 * ✉️ Email: [work.shashankbagda@gmail.com](mailto:work.shashankbagda@gmail.com)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=020617&height=60&section=footer&text=Thank%20You%20for%20visiting%20%E2%9A%A1&fontSize=16&fontColor=E5E7EB" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=020617&height=60&section=footer&text=Thanks%20for%20visiting%20%E2%9A%A1&fontSize=16&fontColor=E5E7EB" alt="footer"/>
 </p>
